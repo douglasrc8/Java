@@ -11,7 +11,7 @@ public class Plano_de_saude {
 		String nome;
 		int idade;
 		
-		System.out.printf("Digite o seu nome: ");
+		System.out.printf("Digite o seu nome:  ");
 		nome = leia.nextLine();
 		System.out.printf("\nDigite a sua idade: ");
 		idade = leia.nextInt();
