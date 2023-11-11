@@ -1,0 +1,10 @@
+package salario_liquido;
+
+public class Salario_Liquido {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

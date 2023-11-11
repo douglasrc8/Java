@@ -1,0 +1,21 @@
+package aula_03;
+
+import java.util.Scanner;
+
+public class Planoo_de_saude {
+
+	static Scanner leia = new Scanner(System.in);
+		
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String nome;
+		int idade;
+		
+		System.out.print("Digite o seu nome: ");
+		nome = leia.nextLine();
+		System.out.print("Digite a sua idade: ");
+		idade = leia.nextInt();
+		
+	}
+
+}

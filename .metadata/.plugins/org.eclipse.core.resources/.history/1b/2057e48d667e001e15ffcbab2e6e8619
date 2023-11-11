@@ -1,0 +1,27 @@
+package salario_liquido;
+
+import java.util.Scanner;
+
+public class Salario_Liquido {
+	static Scanner leia = new Scanner(System.in);
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+double salario, adicional, hora_extra, desconto, salario_liquido;
+
+		System.out.println("Digite o salário: ");
+		salario = leia.nextDouble();
+		System.out.println("Digite o adicional: ");
+		salario = leia.nextDouble();
+		System.out.println("Digite a hora extra: ");
+		salario = leia.nextDouble();
+		System.out.println("Digite desconto: ");
+		salario = leia.nextDouble();
+		
+		
+		
+		
+		
+	}
+
+}

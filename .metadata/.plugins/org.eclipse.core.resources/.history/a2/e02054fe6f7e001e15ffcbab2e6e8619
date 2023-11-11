@@ -1,0 +1,10 @@
+package ler_quatro_valores;
+
+public class Ler_Quatro_Valores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
